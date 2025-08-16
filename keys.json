@@ -1,1 +1,15 @@
 
+{
+    "KEY1": {
+        "plan": "daily",
+        "expire_at": "2024-12-31 23:59:59",
+        "active": true,
+        "owner_id": null
+    },
+    "KEY2": {
+        "plan": "monthly",
+        "expire_at": "2025-01-31 23:59:59",
+        "active": true,
+        "owner_id": 123456789
+    }
+}
